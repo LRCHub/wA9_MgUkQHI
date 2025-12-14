@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "未来へ",
+  "base_artist": "Kiroro",
+  "createdAt": "2025-12-14T03:49:54.766465Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Winding Road~未来へ~",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": false,
+      "path": "select/01_Winding_Road~未来へ~_FANTASTICS_from_EXILE_TRIBE.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "未来へ - Remastered",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/02_未来へ_-_Remastered_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "未来へ",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/03_未来へ_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "届く、未来へ",
+      "artist": "あたらよ",
+      "has_synced": true,
+      "path": "select/04_届く、未来へ_あたらよ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キセキ～未来へ～ - Kiseki -Miraie-",
+      "artist": "whiteeeen",
+      "has_synced": true,
+      "path": "select/05_キセキ~未来へ~_-_Kiseki_-Miraie-_whiteeeen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "未来へ - Mirai e",
+      "artist": "SHU-I",
+      "has_synced": false,
+      "path": "select/06_未来へ_-_Mirai_e_SHU-I.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "未来へ",
+      "artist": "キロロ",
+      "has_synced": true,
+      "path": "select/07_未来へ_キロロ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "未来へ",
+      "artist": "キロロ",
+      "has_synced": true,
+      "path": "select/08_未来へ_キロロ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "未来へ (TVアニメ「月がきれい」Edit Ver.)",
+      "artist": "東山奈央",
+      "has_synced": true,
+      "path": "select/09_未来へ_(TVアニメ「月がきれい」Edit_Ver.)_東山奈央.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "未来へ - Mirai e",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/10_未来へ_-_Mirai_e_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "未来へ",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/11_未来へ_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "未来へ",
+      "artist": "Kiroro",
+      "has_synced": true,
+      "path": "select/12_未来へ_Kiroro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "未来へ",
+      "artist": "柴咲コウ",
+      "has_synced": false,
+      "path": "select/13_未来へ_柴咲コウ.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "未来へ、さあ走り出せ!",
+      "artist": "Juice=Juice",
+      "has_synced": true,
+      "path": "select/14_未来へ、さあ走り出せ!_Juice=Juice.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Winding Road 〜未来へ〜",
+      "artist": "FANTASTICS from EXILE TRIBE",
+      "has_synced": true,
+      "path": "select/15_Winding_Road_〜未来へ〜_FANTASTICS_from_EXILE_TRIBE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "未来へ",
+      "artist": "Kiroro",
+      "has_synced": false,
+      "path": "select/pl_01_未来へ_Kiroro.txt"
+    }
+  ]
+}
